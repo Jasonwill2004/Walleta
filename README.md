@@ -1,6 +1,7 @@
 # Walleta
 
-Walleta is a finance platform that helps users manage their budgets, track expenses, and receive budget alerts. This project is built using Next.js, React, Prisma, and various other libraries.
+### Walleta is a finance platform that helps users manage their budgets, track expenses, and receive budget alerts. This project is built using Next.js, React, Prisma, and various other libraries.
+### You can sacn you =r receipt with AI
 
 ## Table of Contents
 
